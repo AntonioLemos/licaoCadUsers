@@ -1,0 +1,9 @@
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\bin\Debug\netcoreapp1.1\LicaoUnica2.deps.json
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\bin\Debug\netcoreapp1.1\LicaoUnica2.runtimeconfig.json
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\bin\Debug\netcoreapp1.1\LicaoUnica2.runtimeconfig.dev.json
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\bin\Debug\netcoreapp1.1\LicaoUnica2.dll
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\bin\Debug\netcoreapp1.1\LicaoUnica2.pdb
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\obj\Debug\netcoreapp1.1\LicaoUnica2.AssemblyInfo.cs
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\obj\Debug\netcoreapp1.1\LicaoUnica2.dll
+c:\users\antonio\documents\visual studio 2017\Projects\LicaoUnica2\obj\Debug\netcoreapp1.1\LicaoUnica2.pdb
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\LicaoUnica2\obj\Debug\netcoreapp1.1\LicaoUnica2.csprojResolveAssemblyReference.cache
